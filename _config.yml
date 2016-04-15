@@ -1,0 +1,28 @@
+name: Shade Eye
+favicon: null
+layout_spectrum: 0.12317289272323251
+typography_spectrum: 0.9254192179068923
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.26703875325620174
+  lightness: 0.7840131605044007
+  saturation: 0.8069564630277455
+  rhythmicContrast: 0.44847936532460153
+purpose: []
